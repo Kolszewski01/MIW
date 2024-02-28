@@ -1,0 +1,2 @@
+# MIW
+Metody inżynierii wiedzy
